@@ -1,8 +1,8 @@
 html {
     background: radial-gradient(farthest-corner at right top, #21A09D, #06182D);
     font-family: 'Roboto', cursive;
-    height: 100VH;
-    width: 100vw;
+    height:100%;
+    width: 100%;
 }
 
 .conteudo {
